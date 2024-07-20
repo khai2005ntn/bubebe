@@ -1776,7 +1776,7 @@ def air(phone):
     }
 
     response = requests.post('https://vietair.com.vn/Handler/CoreHandler.ashx', cookies=cookies, headers=headers, data=data)
-def tv360(phone):
+def fa(phone):
     cookies = {
     'frontend': '2c83545216a746a78e9359eb6ed27b3d',
     '_ga': 'GA1.1.4630769.1721136088',
@@ -1822,7 +1822,7 @@ def tv360(phone):
 }
 
     response = requests.post('https://www.fahasa.com/ajaxlogin/ajax/checkPhone', cookies=cookies, headers=headers, data=data)
-def tv360(phone):
+def sapo(phone):
     cookies = {
     '_hjSessionUser_3167213': 'eyJpZCI6IjZlZWEzMDY1LTI2ZTctNTg4OC1hY2YyLTBmODQwYmY4OGYyMyIsImNyZWF0ZWQiOjE3MjExMzYxMDU4NDIsImV4aXN0aW5nIjp0cnVlfQ==',
     '_hjSession_3167213': 'eyJpZCI6IjMxN2QxMGYwLTE1ZDEtNDA3Yi1iM2YwLWY2YzQyNGYwOGZkYSIsImMiOjE3MjExMzYxMDU4NDUsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=',
