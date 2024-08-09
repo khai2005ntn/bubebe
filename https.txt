@@ -1,0 +1,45 @@
+#Australia
+139.99.238.134:8000
+#Canada: Quebec
+149.56.254.138:8000
+#Canada: Vancouver
+23.154.81.142:8000
+#Germany
+51.195.41.27:8000
+#France
+54.36.122.54:8000
+#United States: Virgina
+51.81.29.67:8000
+#Poland
+54.36.175.129:8000
+#Singapore
+139.99.90.68:8000
+#Luxembourg
+107.189.11.88:8000
+#United States: Las Vegas
+205.185.127.136:8000
+#Netherlands
+94.23.146.47:8000
+#United States: New York
+198.98.51.35:8000
+#Portugal
+137.74.57.239:8000
+#Lithuania
+188.165.29.53:8000
+#Italy
+94.23.65.37:8000
+#Finland
+5.39.114.85:8000
+#Spain
+137.74.235.127:8000
+#Belgium
+178.32.45.189:8000
+#Czech
+94.23.170.136:8000
+#Ireland
+178.32.77.118:8000
+#Netherlands
+94.23.146.47:8000
+
+#Tor/Onion
+104.244.72.126:8000
